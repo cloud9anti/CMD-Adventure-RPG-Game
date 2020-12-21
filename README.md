@@ -6,7 +6,7 @@ A creative "adventure game" project made using Python and entirely limited to th
 ```python
 python3 main.py # runs CMD-Adventure-RPG-Game
 
-Please ensure that you have all the sound files and dependencies before running the program.
+# Please ensure that you have all the sound files and dependencies before running the program.
 
 ```
 
