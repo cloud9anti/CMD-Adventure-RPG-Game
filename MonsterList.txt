@@ -1,0 +1,1 @@
+["{\"name\": \"Goblin\", \"hp\": \"2\"}", "{\"name\": \"Knight\", \"hp\": \"6\"}", "{\"name\": \"Dragon\", \"hp\": \"10\"}", "{\"name\": \"Mutant Beaver\", \"hp\": \"4\"}", "{\"name\": \"Hell Slime\", \"hp\": \"11\"}", "{\"name\": \"Slime\", \"hp\": \"3\"}", "{\"name\": \"Manic Monkey\", \"hp\": \"13\"}"]
