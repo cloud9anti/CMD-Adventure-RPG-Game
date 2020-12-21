@@ -1,2 +1,15 @@
 # CMD-Adventure-RPG-Game
-An creative "adventure game" project made using Python and entirely limited to the command prompt featuring smooth animations.
+A creative "adventure game" project made using Python and entirely limited to the command prompt featuring smooth animations.
+
+## Usage
+
+```python
+#on the server
+python3 main.py # runs CMD-Adventure-RPG-Game
+
+Please ensure that you have all the sound files and dependencies before running the program.
+
+```
+
+## Owner
+Alexander McGrath
