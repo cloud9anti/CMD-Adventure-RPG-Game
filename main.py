@@ -1,5 +1,6 @@
 '''
-I am alex! I am the best!
+This adventure was created by Alexander McGrath. It is inspired by Roguelikes
+and text-adventure DOS games including Zork and Colossal Cave Adventure.
 '''
 
 import random
