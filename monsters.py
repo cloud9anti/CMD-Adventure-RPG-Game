@@ -1,6 +1,8 @@
 import json
 import os
 
+# This file contains the monster classes.
+
 class Monsters:
     def __init__(self, name, hp):
         self.name = name
